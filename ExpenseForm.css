@@ -1,0 +1,62 @@
+.expenseform label,input{
+    display: block;
+    
+    }
+    
+    .expenseform{
+        
+        width: 500px;
+        margin-left: 450px;
+        margin-top: 30px;
+        
+        display: flexbox;
+        justify-content: center;
+    }
+    .expenseform input{
+        border-radius: 14px;
+        padding: 2px 2px;
+        font-weight: bold;
+        font-style: italic;
+    }
+    .input{
+        width: 210px;
+        border-radius: 14px;
+        padding: 2px 2px;
+        font-weight: bold;
+        font-style: italic;
+    }
+    .submitbutton{
+        margin-top: 15px;
+        font-weight: bold;
+        font-style: italic;
+        border-radius: 14px;
+        background-color: rgb(235, 51, 51);
+    
+    }
+    .dataitems{
+        display: flex;
+        margin-left: 300px;
+        margin-top: 20px;
+        color: black;
+        font-weight: bold;
+        font-style: italic;
+    }
+    .deletebutton{
+        background-color: rgb(241, 67, 67);
+        border-radius: 14px;
+        font-weight: bold;
+        font-style: italic;
+    }.editbutton{
+        background-color: rgb(74, 212, 31);
+        border-radius: 12px;
+        font-weight: bold;
+        font-style: italic;
+    }
+    .activatePremiumButton{
+        background-color: gold;
+        border-radius: 14px;
+        font-weight: bold;
+        font-style: italic;
+        margin-left: 1200px;
+        margin-top: 0;
+    }
